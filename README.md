@@ -32,4 +32,4 @@ Dart
 
 ## Author
 
-BSIT Student - PC16 Mobile Development with Lab
+BSIT 3.1 - Jenny Anne R. Dula 
