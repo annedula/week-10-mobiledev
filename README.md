@@ -1,17 +1,34 @@
-# Week 10 - Mobile Development
+# Week 10 - OOP in Dart
 
-This project enhances my Week 9 Jeepney OOP program by applying inheritance, polymorphism, abstract classes, and mixins in Dart.
+This project is an enhanced version of my Week 9 Jeepney OOP program. It demonstrates inheritance, polymorphism, abstract classes, and mixins using real-world transportation examples.
 
 ## Features
+
 - Base class: `Vehicle`
 - Derived classes: `Jeepney` and `Bus`
-- Method overriding for polymorphism
+- Method overriding
 - Abstract class: `TransportService`
 - Mixin: `FareMixin`
 - Passenger management and fare calculation
 
+## Program Output
+
+![Program Output](output.png)
+
+## Source Code
+
+### Vehicle and TransportService
+
+![Source Code 1](code1.png)
+
+### Jeepney, Bus, and FareMixin
+
+![Source Code 2](code2.png)
+
 ## Language
+
 Dart
 
 ## Author
-BSIT 3.1 - Jenny Anne R. Dula
+
+BSIT Student - PC16 Mobile Development with Lab
